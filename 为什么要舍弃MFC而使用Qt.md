@@ -127,11 +127,11 @@ MFC的帮助文档是MSDN，如果想离线使用需要在Visual Studio中下载
 
 
   [1]: http://blog.csdn.net/harbinzju/article/details/10813635 "【深入QT】信号槽机制浅析"
-  [2]: http://ov1kvsbhe.bkt.clouddn.com/From_MFC_to_Qt/getOpenFileName.png "QFileDialog::getOpenFileName()"
-  [3]: http://ov1kvsbhe.bkt.clouddn.com/From_MFC_to_Qt/Examples_network.png "network examples"
+  [2]: https://blog.victorbian.rocks/wp-content/uploads/2017/09/getOpenFileName.png "QFileDialog::getOpenFileName()"
+  [3]: https://blog.victorbian.rocks/wp-content/uploads/2017/09/Examples_network.png "network examples"
   [4]: http://docs.opencv.org/master/dc/d46/group__highgui__qt.html "Qt New Functions"
-  [5]: http://ov1kvsbhe.bkt.clouddn.com/From_MFC_to_Qt/Qt_OpenCvGui.png "OpenCv Gui"
-  [6]: http://ov1kvsbhe.bkt.clouddn.com/From_MFC_to_Qt/Qt_New_Functions.png "cv::imshow()"
+  [5]: https://blog.victorbian.rocks/wp-content/uploads/2017/09/Qt_OpenCvGui.png "OpenCv Gui"
+  [6]: https://blog.victorbian.rocks/wp-content/uploads/2017/09/Qt_New_Functions.png "cv::imshow()"
   [7]: https://github.com/xixingyouyao/HelloCuda "HelloCuda"
   [8]: http://www.jxgolden.com/blog_csdn_net/dulinbo/article/details/4370581 "Qt vs MFC"
   [9]: http://blog.csdn.net/hufengvip/article/details/5748652 "比较QT和MFC两个界面库"
