@@ -40,7 +40,7 @@ function readINI()
 
 调用方法（从名为Filename的文件中读取Section节中的Key键值保存到变量Value中）：
 ```bash
-Value = readINI Filename Section Key
+Value= readINI Filename Section Key
 ```
 
 ---
