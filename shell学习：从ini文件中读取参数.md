@@ -1,4 +1,4 @@
-﻿# bash学习：从ini文件中读取参数
+﻿# shell学习：从ini文件中读取参数
 ## LearningBash_ReadingIniFile
 
 Categories: 学习笔记
